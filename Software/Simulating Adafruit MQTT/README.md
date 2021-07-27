@@ -1,0 +1,1 @@
+This project need MQTT as a Protocol. So we choose adafruit broker. We are going to publish data from Nodemcu ESP32 to MQTT broker. This is the code that we use to publish data to MQTT Adafruit Broker.
