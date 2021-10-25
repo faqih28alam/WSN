@@ -3,6 +3,6 @@ In this section you will find 3 code :
   2. SLAVE_TRANSMITTER_ESP32 CODE
   3. RECEIVER_ESP32 CODE
 
-The first code is for ....... The second code is for ........ The third code is for .......
+The first code is for getting the data with sensor. The sensor's data  will be stored to the first Microcontroller NodeMCU ESP32. The first Microcontroller NodeMCU ESP32 send the data to the second Microcontroller NodeMCU ESP32 with bluetooth connection. The second code is for receiving the first Microcontroller NodeMCU ESP32's data. After receiving the data, the second Microcontroller NodeMCU ESP32 will forward the data to the third Microcontroller NodeMCU ESP32 with Serial Comunication. The third code is for receiving data from Microcontroller NodeMCU ESP32 then forward the data to MQTT Broker.
   
 
